@@ -1,4 +1,4 @@
-# CodeSoft
+# CodSoft
 Welcome to the Codesoft AI Projects Repository! This repository contains code and documentation for three exciting AI tasks: Chatbot with Rule-Based Response, Image Captioning, and Recommendation System.
 
 1. Chatbot with Rule-Based Response
